@@ -7,5 +7,6 @@ public class MyClass {
 
 
         System.out.println("My Main");
+        System.out.println("My Main");
     }
 }
